@@ -1,0 +1,26 @@
+Content-Type: multipart/related; charset=UTF-8; boundary=qHD4TH1k2bs5ua8iZUqRQ6TDV3Y=
+
+--qHD4TH1k2bs5ua8iZUqRQ6TDV3Y=
+Content-Type: multipart/mixed; charset=UTF-8; boundary=CKNmMImFCB53HGYluzuyxUYJQAc=
+
+--CKNmMImFCB53HGYluzuyxUYJQAc=
+Expire-date: 2022-06-30T14:35:01Z
+Version: 2
+
+--CKNmMImFCB53HGYluzuyxUYJQAc=
+Content-type: application/octet-stream
+Content-transfer-encoding: base64
+Content-identifier: SHARED-PARAMETERS; instance='SP-DEV01'
+Content-location: /V2/20220619142501474983000/shared-params.xml
+Hash-algorithm-id: http://www.w3.org/2001/04/xmlenc#sha512
+
+dIj826JpJEjDSAvvTvF/fEs/ESknd679v/8NmpGzQ9J68et8iRnvtI6xLrXqp/uKlHRZiIedd1Fa5YFjagZUwA==
+--CKNmMImFCB53HGYluzuyxUYJQAc=
+--qHD4TH1k2bs5ua8iZUqRQ6TDV3Y=
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Signature-Algorithm-Id: http://www.w3.org/2001/04/xmldsig-more#rsa-sha512
+Verification-certificate-hash: TRmS8lggYvDBX2nXGMq19Cz6uP7vOJmBxMDqG2ZNlyBW86d20QGwkWHYYwODpxeWQfh38bs5Gj4Nn+a5bB/aNA==; hash-algorithm-id="http://www.w3.org/2001/04/xmlenc#sha512"
+
+su3Ihdmybmr0Kzws/lcMEe9dKyBJGITcCOD1iZicXP1fxP49dL7Kcsi44gGsKXFGu1tCFC/vXot32lXRi39Iy7KTmfnYYmAD5itbEqo5frNz1ohxDScqoWMNp7+sQVu+l53tsfzwuCPZlplwpMm5SXhwElJJHXNDqTT4iJUCIqoijIWOoWy4I04A+Spp4frYRbxxKZl6vt+tdfZZ7MNFi1eZQOR6ZYDXagncmY3wS8b5xFW7nzV9Uh16OIe4dCbBFevTRRSDwDylYJ0J5rV2p74cfD4eQZ8vCdd9lAOGappn9Yxm8b6MBJCxPGTaFvrp36Tz7HgZgEE4Ai+wLh7QLg==
+--qHD4TH1k2bs5ua8iZUqRQ6TDV3Y=--
