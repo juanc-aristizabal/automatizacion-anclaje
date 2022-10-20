@@ -1,10 +1,15 @@
 # automatizacion-anclaje
 
+Componente externo que permite la federación entre el ecosistema x-road Colombia con un ecosistema extranjero
 
-#Codigo componente externo que permite la federación entre ecosistemas x-road, especificamente el anclaje entre un ecosistema Colombia>
+Se crea este mediador como una solución temporal para realizar el anclaje con el fin de llevar esta misma funcionalidad desde el codigo fuente de x-road 
 
-#Es necesario crear este mediador que modifica tres archivos:
-* configuration_anchor_CO-DEV01_external_UTC_xxxx.xml
+la aplicación modifica tres archivos y los almacena en un lugar publico donde los ecosistemas consultan los archivos:
+
+* configuration_anchor_nameinstance_externalxxxx.xml
 * externalconf
 * sharedparams.xml
+
+
+
 
